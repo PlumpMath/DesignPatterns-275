@@ -1,0 +1,5 @@
+D:\DesignPatterns\Strategy\State\bin\Debug\State.exe.config
+D:\DesignPatterns\Strategy\State\bin\Debug\State.exe
+D:\DesignPatterns\Strategy\State\bin\Debug\State.pdb
+D:\DesignPatterns\Strategy\State\obj\Debug\State.exe
+D:\DesignPatterns\Strategy\State\obj\Debug\State.pdb

@@ -1,0 +1,6 @@
+D:\DesignPatterns\Strategy\Flyweight\bin\Debug\Flyweight.exe.config
+D:\DesignPatterns\Strategy\Flyweight\bin\Debug\Flyweight.exe
+D:\DesignPatterns\Strategy\Flyweight\bin\Debug\Flyweight.pdb
+D:\DesignPatterns\Strategy\Flyweight\obj\Debug\Flyweight.csprojResolveAssemblyReference.cache
+D:\DesignPatterns\Strategy\Flyweight\obj\Debug\Flyweight.exe
+D:\DesignPatterns\Strategy\Flyweight\obj\Debug\Flyweight.pdb

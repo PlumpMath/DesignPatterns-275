@@ -1,0 +1,6 @@
+D:\DesignPatterns\Strategy\Builder\bin\Debug\Builder.exe.config
+D:\DesignPatterns\Strategy\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+D:\DesignPatterns\Strategy\Builder\bin\Debug\Builder.exe
+D:\DesignPatterns\Strategy\Builder\bin\Debug\Builder.pdb
+D:\DesignPatterns\Strategy\Builder\obj\Debug\Builder.exe
+D:\DesignPatterns\Strategy\Builder\obj\Debug\Builder.pdb

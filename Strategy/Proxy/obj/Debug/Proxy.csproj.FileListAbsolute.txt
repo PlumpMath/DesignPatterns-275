@@ -1,0 +1,5 @@
+D:\DesignPatterns\Strategy\Proxy\bin\Debug\Proxy.exe.config
+D:\DesignPatterns\Strategy\Proxy\bin\Debug\Proxy.exe
+D:\DesignPatterns\Strategy\Proxy\bin\Debug\Proxy.pdb
+D:\DesignPatterns\Strategy\Proxy\obj\Debug\Proxy.exe
+D:\DesignPatterns\Strategy\Proxy\obj\Debug\Proxy.pdb

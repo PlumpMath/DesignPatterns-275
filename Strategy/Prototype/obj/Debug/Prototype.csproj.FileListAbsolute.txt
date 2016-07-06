@@ -1,0 +1,6 @@
+D:\DesignPatterns\Strategy\Prototype\bin\Debug\Prototype.exe.config
+D:\DesignPatterns\Strategy\Prototype\bin\Debug\Prototype.exe
+D:\DesignPatterns\Strategy\Prototype\bin\Debug\Prototype.pdb
+D:\DesignPatterns\Strategy\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+D:\DesignPatterns\Strategy\Prototype\obj\Debug\Prototype.exe
+D:\DesignPatterns\Strategy\Prototype\obj\Debug\Prototype.pdb

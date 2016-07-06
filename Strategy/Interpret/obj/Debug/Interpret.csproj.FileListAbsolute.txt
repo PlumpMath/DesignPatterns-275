@@ -1,0 +1,6 @@
+D:\DesignPatterns\Strategy\Interpret\bin\Debug\Interpret.exe.config
+D:\DesignPatterns\Strategy\Interpret\bin\Debug\Interpret.exe
+D:\DesignPatterns\Strategy\Interpret\bin\Debug\Interpret.pdb
+D:\DesignPatterns\Strategy\Interpret\obj\Debug\Interpret.csprojResolveAssemblyReference.cache
+D:\DesignPatterns\Strategy\Interpret\obj\Debug\Interpret.exe
+D:\DesignPatterns\Strategy\Interpret\obj\Debug\Interpret.pdb
